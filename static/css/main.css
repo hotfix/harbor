@@ -40,6 +40,11 @@ a {
   text-decoration: none;
 }
 
+img {
+  width: 100%;
+  height: auto;
+}
+
 .error-text {
   font-family: 'Roboto', Helvetica, sans-serif;
   text-align: center;
